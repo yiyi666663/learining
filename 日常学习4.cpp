@@ -51,7 +51,7 @@
 //	
 //		for (; j < 10; j++)
 //		{
-//			printf("ÎÒ°®Äã  ");
+//			printf("ÃŽÃ’Â°Â®Ã„Ã£  ");
 //		}
 //	}
 //	return 0;
@@ -65,3 +65,13 @@ int main()
 	}
 	return 0;
 }
+//int main()
+//{
+//	int x, y;
+//	for (x = 0, y = 0; x = 0; x++, y++)
+//	{
+//		x++;
+//		printf("%d", x);
+//	}
+//	return 0;
+//}
